@@ -1,15 +1,23 @@
 {
   "short_name": "SonicGen",
   "name": "SonicGen AI TTS",
+  "description": "High-quality AI Text to Speech generator.",
   "icons": [
     {
-      "src": "https://ibb.co.com/VbcH2rB",
-      "type": "image/svg+xml",
-      "sizes": "192x192 512x512"
+      "src": "https://placehold.co/192x192/4f46e5/ffffff.png?text=SG",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/4f46e5/ffffff.png?text=SonicGen",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "theme_color": "#0f172a",
-  "background_color": "#0f172a"
+  "background_color": "#0f172a",
+  "orientation": "portrait"
 }
