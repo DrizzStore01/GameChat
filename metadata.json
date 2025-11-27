@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SonicGen - AI TTS",
+  "description": "A high-quality Text-to-Speech application using Google's Gemini 2.5 Flash technology to generate lifelike audio from text.",
+  "requestFramePermissions": []
+}
